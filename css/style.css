@@ -281,6 +281,8 @@ strong {
 /*==========================================FOOTER=============================================================*/
 .footer {
   background: black;
+  border-top: solid 5px;
+  border-image: linear-gradient(90deg, #00f0ff, #000000 40%) 1;
 }
 .footer-container {
   max-width: 1200px;
