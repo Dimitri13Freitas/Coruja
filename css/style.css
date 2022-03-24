@@ -240,12 +240,11 @@ strong {
   position: relative;
 }
 .formacao-extra h3::before {
+  position: absolute;
   content: "";
   display: block;
   width: 24px;
   height: 24px;
-
-  position: absolute;
   left: -36px;
   height: -4px;
 }
